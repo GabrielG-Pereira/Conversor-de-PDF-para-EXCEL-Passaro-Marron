@@ -1,0 +1,102 @@
+[
+  {
+    "LinhaCod": "5111V",
+    "LinhaApelido": "CAÇAPAVA 5111",
+    "Direita": true
+  },
+  {
+    "LinhaCod": "5206V",
+    "LinhaApelido": "PINDA 5206",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "5207V",
+    "LinhaApelido": "SÃO JOSÉ",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "6290T",
+    "LinhaApelido": "CAMPINAS",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "5211EX1V",
+    "LinhaApelido": "PINDA 5211EX1",
+    "Direita": true
+  },
+  {
+    "LinhaCod": "5211I",
+    "LinhaApelido": "PINDA 5211",
+    "Direita": true
+  },
+  {
+    "LinhaCod": "5212V",
+    "LinhaApelido": "CAMPOS DO JORDÃO",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "5306V",
+    "LinhaApelido": "LORENA",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "5501V",
+    "LinhaApelido": "SÃO SEBASTIÃO",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "8322V",
+    "LinhaApelido": "SÃO PAULO",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "RESERVA",
+    "LinhaApelido": "RESERVA",
+    "Direita": true
+  },
+  {
+    "LinhaCod": "Folga",
+    "LinhaApelido": "Folga",
+    "Direita": true
+  },
+  {
+    "LinhaCod": "Atestado",
+    "LinhaApelido": "Atestado",
+    "Direita": true
+  },
+  {
+    "LinhaCod": "Férias",
+    "LinhaApelido": "Férias",
+    "Direita": true
+  },
+  {
+    "LinhaCod": "Afastamento",
+    "LinhaApelido": "Afastamento",
+    "Direita": true
+  },
+  {
+    "LinhaCod": "4428V",
+    "LinhaApelido": "PIN X SPO",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "5206I",
+    "LinhaApelido": "PIN X TAU",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "5209I",
+    "LinhaApelido": "PIN X SJC",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "5219V",
+    "LinhaApelido": "CJO X PIN",
+    "Direita": false
+  },
+  {
+    "LinhaCod": "5311V",
+    "LinhaApelido": "GTA X PIN",
+    "Direita": false
+  }
+]
