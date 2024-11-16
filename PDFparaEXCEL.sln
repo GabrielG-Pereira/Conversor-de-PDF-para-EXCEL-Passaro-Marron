@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFparaEXCEL", "PDFparaEXCEL\PDFparaEXCEL.csproj", "{A91AE875-7836-4EED-A32E-1308F58AFECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91AE875-7836-4EED-A32E-1308F58AFECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91AE875-7836-4EED-A32E-1308F58AFECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91AE875-7836-4EED-A32E-1308F58AFECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91AE875-7836-4EED-A32E-1308F58AFECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6F4C5B-51C5-49B4-8209-32D0488E2D37}
+	EndGlobalSection
+EndGlobal
